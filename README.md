@@ -1,5 +1,5 @@
 # Análisis de Sentimientos en Twitter utilizando NLP
-Este proyecto utiliza técnicas de procesamiento de lenguaje natural (NLP) para analizar el sentimiento en tweets. El objetivo es clasificar los tweets en positivos, negativos o neutros.
+Este proyecto utiliza técnicas de procesamiento de lenguaje natural (NLP) para analizar el sentimiento en tweets. El objetivo es clasificar los tweets en positivos y negativos.
 
 # Descripción
 Se utilizaron técnicas de preprocesamiento de texto, como tokenización, eliminación de stopwords y stemming, para preparar los tweets para el análisis. Luego se utilizó el algoritmo de clasificación Naive Bayes para clasificar los tweets en positivos, negativos o neutros.
@@ -21,4 +21,4 @@ Se utilizaron técnicas de preprocesamiento de texto, como tokenización, elimin
 Es un modelo prentrenado que podeis descargar con un pickle
 
 # Créditos
-Este proyecto fue creado por [Miguel De Frutos].
+Este proyecto fue creado por Miguel De Frutos.
