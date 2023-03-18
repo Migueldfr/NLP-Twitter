@@ -21,4 +21,4 @@ Se utilizaron técnicas de preprocesamiento de texto, como tokenización, elimin
 Es un modelo prentrenado que podeis descargar con un pickle
 
 # Créditos
-Este proyecto fue creado por [tu nombre aquí].
+Este proyecto fue creado por [Miguel De Frutos].
