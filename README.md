@@ -3,6 +3,7 @@ Este proyecto utiliza técnicas de procesamiento de lenguaje natural (NLP) para 
 
 # Descripción
 Se utilizaron técnicas de preprocesamiento de texto, como tokenización, eliminación de stopwords y stemming, para preparar los tweets para el análisis. Luego se utilizó el algoritmo de clasificación Naive Bayes para clasificar los tweets en positivos, negativos o neutros.
+Dentro de src hay una carpeta que contiene el link para la presentación.
 
 # Dependencias
 - Python 3.7 o superior
